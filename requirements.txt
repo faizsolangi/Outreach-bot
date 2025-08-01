@@ -1,0 +1,9 @@
+requests
+langchain
+langchain-openai
+streamlit
+crewai
+python-dotenv
+gspread
+oauth2client
+waitress
